@@ -1,0 +1,8 @@
+git clone url ("we use clone when we have to download repository for the first time")
+git status ("we use git status to get current working branch name, also to check if we have any file changes we did not commit")
+git checkout branchname ("we will use this to change the current branch")
+Remote would the place where this code is saved at server, 
+apart from remote we have a local file system,
+local repository 
+for untracked files the command we use is git add . for all the files 
+for individual files git add filename
