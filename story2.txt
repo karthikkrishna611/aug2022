@@ -1,0 +1,7 @@
+git clone url - we use clone to download the reposatory for the 1st time.
+git status - current working branch name (or) do we have any file changes that we do not commit or push.
+git checkout branchname - we will use it to change the current working branch.
+
+Remote would be the place of code is saved and  
+we have local file system and 
+space local repository. 
