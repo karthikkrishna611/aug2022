@@ -1,0 +1,22 @@
+Git commands:
+$ git clone
+- we use clone command to download for the first time.
+$ git status
+-Current working branch name.
+-we use this whether we have done any changes of file that we do not commit/push.
+$ git checkout
+-We use this to change the current working branch.
+#remote 
+-It would be the place where we would save this code in server.
+#Local file systems
+-
+#local repository
+-
+#Staging
+$ git add.
+$ git commit
+$ git pull
+
+#modified/untracked
+$ git add "filename"
+
