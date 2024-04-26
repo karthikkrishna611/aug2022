@@ -1,0 +1,16 @@
+git space clone ("TO DOWNLOADE THE REPO FOR THE FIRST TIME")
+git status("TO know the status of Branch OR changes in the file")
+git checkout ("TO change the current working branch")
+remote("SERVER OR REPO)
+local file sysytem and local repo
+
+stage
+selecting the file
+commit with msg
+push local to remote
+pull getting updated changes from remote to both local and local file 
+
+
+git add . or git add filename -> if it show untracked files
+git commit -m="Message"-> TO commit
+git push origin branchname ->  sent to remote 
