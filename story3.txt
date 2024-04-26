@@ -1,0 +1,4 @@
+git clone url-we use clone  to download the repository for the first time.
+git status-it means current working branch name or do we any file changes that we didnt commit or push
+git checkout branch - it means use to change the current working branch 
+first item is remote it would be the place of code is saved sever and second item is we have local file system and third local repository
