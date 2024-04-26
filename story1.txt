@@ -20,6 +20,6 @@ merge -> combining the changes from 2 branches , story branch to dev branch
 
 git merge origin/dev origin/story1
 
-git checkout branch_name  
+git checkout branch_name 
 
 switch branch:
