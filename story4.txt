@@ -25,6 +25,9 @@ $ git merge origin/dev origin/story4
 $ git checkout branchName
 --we can use the above command to change the branch.
 
+# merge conflict:
+
+
 
 
 
