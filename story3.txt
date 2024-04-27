@@ -2,3 +2,11 @@ git clone url-we use clone  to download the repository for the first time.
 git status-it means current working branch name or do we any file changes that we didnt commit or push
 git checkout branch - it means use to change the current working branch 
 first item is remote it would be the place of code is saved sever and second item is we have local file system and third local repository
+git ftech-
+git push-
+git status- 
+git pull-we are getting the changes from remote repository to both local repo and local file system
+-Suppose we made changes in local file system and if we had get changes to remote repository multiple steps first step  is staging(we have select this files Command is  git add either the file name or .)second step is commiting(git commit -m="commit mesaage") commit will move from local file system to local repo and third step is push it will take the changes from local repo to remote repository.
+-merge-In the case merge we are combining the two branches mostly we will combine our future brach to the development branch(git merge origin/devlopment origin/branchname)
+hi heloo how 
+
