@@ -10,7 +10,16 @@ commit with msg
 push local to remote
 pull getting updated changes from remote to both local and local file 
 
+first step ->staging
+git add . or git add filename -> if it show untracked files error -> staging
+git commit -m= "Message"-> TO commit will move the changes from local
+l to local repo.
+git push origin branchname -> it take the changes from  Local to remote 
 
-git add . or git add filename -> if it show untracked files
-git commit -m="Message"-> TO commit
-git push origin branchname ->  sent to remote 
+merge -> combining the changes from 2 branches , story branch to dev branch
+
+git merge origin/dev origin/story1
+
+git checkout branch_name 
+
+switch branch:
