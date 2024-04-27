@@ -12,10 +12,37 @@ $ git checkout
 -
 #local repository
 -
-#Staging
-$ git add.
-$ git commit
-$ git pull
+~updating the changes from local to remote
+#1 Staging: 
+$ git add./$ git add "filename"
+$ git commit -m=""
+--commit will update the changes from local file systems to local repository.
+$ git push
+--it will take the changes from Local repository to remote.
+# merge
+$ git merge origin/dev origin/story4 
+--Combining the changes from two branches. We will combine our feature story branch to the dev. branch
+$ git checkout branchName
+--we can use the above command to change the branch.
+
+# merge conflict:
+
+
+
+
+
+
+
+
+
+
+
+
+$ git pull:
+--
+
+retrieving the updates/changes from the remote to the local repository.
+$ git push:
 
 #modified/untracked
 $ git add "filename"
