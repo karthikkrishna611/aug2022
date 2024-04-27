@@ -6,3 +6,17 @@ apart from remote we have a local file system,
 local repository 
 for untracked files the command we use is git add . for all the files 
 for individual files git add filename
+pull operation is to get the updated changes to local repo and local file system
+
+#Staging
+if you made changes in local file system if you have to get this changes to remote repository there are multiple steps.
+1. staging
+in staging process we have to select these files.
+we will select the modified files using git add . or git add file name
+2.second step is commiting the files. git commit -m="message"
+commit will move the chnages form local file system to local repo.
+3.Third step is Push the command will take the changes from local repo to remote repo.
+4. Git pull 
+5. In case of merge we are combining changes from two branches. mostly we will combine our feature story branch to the development branch. git merge origin/dev origin/ourbranchname.
+6.To switch the branch we use the command git checkout.
+7.
